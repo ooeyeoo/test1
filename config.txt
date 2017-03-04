@@ -95,8 +95,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.supportxmr.com:3333",
-"wallet_address" : "",
+"pool_address" : "xmr.crypto-pool.fr:443",
+"wallet_address" : "4A6LQf4xPow5Q7c9wPQHopYDHMEmUoPp8Ls86HJLE5eP8L2AF4pb3KpWncdPkCD5sL6ckUbjby9yD9K8FT2cu1oPJTyHWoa+12000",
 "pool_password" : "",
 
 /*
